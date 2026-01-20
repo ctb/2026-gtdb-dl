@@ -1,0 +1,12 @@
+*.tsv.gz
+batches
+bad
+fasta
+prodigal
+*~
+*.sig.zip
+*.csv
+.snakemake
+*.rocksdb
+gzip
+signatures
