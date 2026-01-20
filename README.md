@@ -1,6 +1,8 @@
 # 2026-gtdb-dl
 
-GTDB rs226 processing => prodigal
+GTDB rs226 processing => prodigal.
+
+All files on farm under `/home/ctbrown/scratch3/2026-gtdb-dl`.
 
 ## 0. Download the GTDB TSVs
 
@@ -44,3 +46,4 @@ sourmash scripts manysketch gtdb-cds-rs226.manysketch.csv -o gtdb-cds-rs226.sig.
 ```
 ./pangenome.sh
 ```
+
